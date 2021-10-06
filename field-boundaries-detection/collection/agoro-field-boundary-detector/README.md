@@ -2,6 +2,7 @@
 
 Detect field boundaries using satellite imagery.
 
+[Ref](https://radix.ai/blog/2021/6/from-a-to-z-on-field-boundary-detection-a-computer-vision-use-case/)
 
 ## Installation
 To install this package in your environment, run:
