@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="465c5b4b-b428-4cc7-bde1-190f039b1145" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/480demo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GridFree_GUI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/annotate.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/areaselection.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/axistest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/batchprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/batchprocess_terminal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottom_frame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal_kernelsize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmb10.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/colorindicestest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/colorstripgen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_frame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corns_demo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/countlist.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/createBins.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/defines" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/displaypanel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributionplot.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filterpanel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guicontainer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/histograms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kplus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lm_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainfunctions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/normaldistribution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/origins.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processimgs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasterio-1.0.24+gdal24-cp36-cp36m-win32.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasterio-1.0.24+gdal24-cp36-cp36m-win_amd64.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleseed-demo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seedsample.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sel_area.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sensordata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testbandimages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testmagnifier.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testtkinterplot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkinterGUI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkinterGUI_nw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkintercore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkintercorestat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkintercorestat_plot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkintersinglecore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingdataset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wheatdemo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/win-smallw-startdemo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zoomtest.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1zzLOZWQ3YNG5R0tukpP1pdnTLO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/tkinterGUI_nw.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tkinterGUI_nw" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SimpleGridFree" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/SimpleGridFree/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/tkinterGUI_nw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="465c5b4b-b428-4cc7-bde1-190f039b1145" name="Changes" comment="" />
+      <created>1635145939730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635145939730</updated>
+      <workItem from="1635145947662" duration="4741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SimpleGridFree$run.coverage" NAME="tkinterGUI_nw Coverage Results" MODIFIED="1635152076013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+  </component>
+</project>
