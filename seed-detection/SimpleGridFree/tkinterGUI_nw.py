@@ -2915,6 +2915,7 @@ def export_ext(iterver,path,whext=False,blkext=False):
             #imageband=outputimgbands[file][itervalue]
             imageband=segimg
             draw=ImageDraw.Draw(imageband)
+            print("Check")
             uniquelabels=list(colortable.keys())
             tempdict={}
             if refarea is not None:
@@ -3126,7 +3127,7 @@ def export_result(iterver):
         # print(lesszeroonefive)
         '''end'''
 
-
+        print("Export Check")
         if len(path)>0:
             tup=(labels,counts,colortable,[],currentfilename)
             _band,segimg,small_segimg=showcounting(tup,False)
@@ -3300,9 +3301,10 @@ def export_result(iterver):
             colorindicekeys=list(colorindicearray[file].keys())
             colorindicelist=[ 0 for i in range(len(colorindicekeys)*3)]
 
-
+            print("Check kill signal")
             datatable={}
             origindata={}
+            
             for key in indicekeys:
                 data=originbandarray[file][key]
                 data=data.tolist()
@@ -3310,6 +3312,7 @@ def export_result(iterver):
                 origindata.update(tempdict)
                 print(key)
 
+            
             for key in colorindicekeys:
                 data=colorindicearray[file][key]
                 data=data.tolist()
@@ -3440,6 +3443,10 @@ def export_result(iterver):
     batch['shape_min']=[minlw]
 
     print('batch',batch)
+
+    print("Check")
+
+    return
 
     batchfile=path+'/'+originfile+'-batch'+'.txt'
     with open(batchfile,'w') as f:
