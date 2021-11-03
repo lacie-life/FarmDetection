@@ -38,8 +38,8 @@ print('outputfolder',outputfolder[3])
 existfiles=[]
 localfiles=os.listdir(cwd)
 for file in localfiles:
-    if file.find('.png')!=-1:
-        slash=file.find('.png')
+    if file.find('.JPG')!=-1:
+        slash=file.find('.JPG')
         existfilename=file[:slash+4]
         print(existfilename)
         if existfilename not in existfiles:
